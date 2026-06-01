@@ -24,7 +24,7 @@ Revive unconscious players using a medkit item. The script runs a **VGX-MiniGame
 
 | Resource | Purpose |
 |----------|---------|
-| [Just-core](https://github.com/) / QBCore | Framework (`Config.CoreName`) |
+| [qb-core](https://github.com/) / QBCore | Framework (`Config.CoreName`) |
 | [qb-target](https://github.com/) | Player target interaction (`Config.TargetName`) |
 | [VGX-MiniGame](../VGX-MiniGame) | Arrow sequence minigame |
 | Ambulance / death script | Must handle `Config.ReviveEvent` on the revived player |
