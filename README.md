@@ -140,7 +140,7 @@ All settings are in `config.lua`.
 
 | Option | Default | Description |
 |--------|---------|-------------|
-| `Config.ItemName` | `'accesscard'` | Item required to revive |
+| `Config.ItemName` | `'medkit'` | Item required to revive |
 | `Config.RemoveItem` | `false` | Remove 1 item after successful revive |
 
 ### Revive
