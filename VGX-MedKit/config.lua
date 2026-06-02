@@ -16,7 +16,7 @@ Config.TargetName = 'qb-target'
 --========================================================--
 
 -- Item required to revive a player | الايتم المطلوب لإنعاش اللاعب
-Config.ItemName = 'accesscard'
+Config.ItemName = 'medkit'
 
 -- Remove the item after a successful revive
 -- true  = remove item
